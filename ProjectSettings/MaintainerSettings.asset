@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d570576a55f2355408c5108ee3631081, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  issuesFinderSettings:
+    tabState:
+      selection: 
+      compaction: 
+      searchSectionScrollPosition: {x: 0, y: 0}
+    includeScenesInBuild: 1
+    includeOnlyEnabledScenesInBuild: 1
+    sceneIncludes: []
+    pathIgnores: []
+    pathIncludes: []
+    componentIgnores: []
+    sceneIncludesFilters: []
+    pathIgnoresFilters: []
+    pathIncludesFilters: []
+    componentIgnoresFilters: []
+    filtersTabIndex: 0
+    lookInScenes: 1
+    scenesSelection: 0
+    lookInAssets: 1
+    touchInactiveGameObjects: 1
+    touchDisabledComponents: 1
+    gameObjectsFoldout: 1
+    commonFoldout: 0
+    prefabsFoldout: 0
+    unreferencedFoldout: 0
+    neatnessFoldout: 0
+    projectSettingsFoldout: 1
+    scanGameObjects: 1
+    scanProjectSettings: 1
+    missingComponents: 1
+    duplicateComponents: 1
+    duplicateComponentsPrecise: 1
+    missingReferences: 1
+    undefinedTags: 1
+    inconsistentTerrainData: 1
+    missingPrefabs: 1
+    disconnectedPrefabs: 1
+    emptyMeshColliders: 1
+    emptyMeshFilters: 1
+    emptyAnimations: 1
+    emptyRenderers: 1
+    emptySpriteRenderers: 1
+    emptyTerrainCollider: 1
+    emptyAudioSource: 1
+    emptyArrayItems: 1
+    skipEmptyArrayItemsOnPrefabs: 1
+    unnamedLayers: 1
+    hugePositions: 1
+    duplicateScenesInBuild: 1
+    duplicateTagsAndLayers: 1
+    sortingType: 2
+    sortingDirection: 0
+  projectCleanerSettings:
+    tabState:
+      selection: 
+      compaction: 
+      searchSectionScrollPosition: {x: 0, y: 0}
+    pathIgnores: []
+    sceneIgnores: []
+    pathIgnoresFilters:
+    - ignoreCase: 0
+      kind: 0
+      value: /Editor/
+    - ignoreCase: 0
+      kind: 0
+      value: /Plugins/
+    - ignoreCase: 0
+      kind: 0
+      value: /StreamingAssets/
+    - ignoreCase: 0
+      kind: 0
+      value: /Resources/
+    - ignoreCase: 0
+      kind: 0
+      value: /Gizmos/
+    - ignoreCase: 0
+      kind: 0
+      value: /Editor Default Resources/
+    - ignoreCase: 0
+      kind: 3
+      value: .dll
+    - ignoreCase: 0
+      kind: 3
+      value: .asmdef
+    - ignoreCase: 0
+      kind: 3
+      value: .mdb
+    - ignoreCase: 0
+      kind: 3
+      value: .xml
+    - ignoreCase: 0
+      kind: 3
+      value: .rsp
+    - ignoreCase: 1
+      kind: 2
+      value: readme
+    - ignoreCase: 1
+      kind: 2
+      value: manual
+    sceneIgnoresFilters: []
+    ignoreScenesInBuild: 1
+    ignoreOnlyEnabledScenesInBuild: 1
+    filtersTabIndex: 0
+    findUnreferencedAssets: 1
+    findUnreferencedScripts: 0
+    findEmptyFolders: 1
+    findEmptyFoldersAutomatically: 0
+    sortingType: 3
+    sortingDirection: 0
+    useTrashBin: 1
+    firstTime: 0
+    trashBinWarningShown: 0
+    deletionPromptShown: 0
+  referencesFinderSettings:
+    showAssetsWithoutReferences: 0
+    selectedFindClearsResults: 0
+    searchString: 
+    pathIgnoresFilters: []
+    fullProjectScanWarningShown: 0
+    treeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    multiColumnHeaderState:
+      m_Columns: []
+      m_VisibleColumns: 
+      m_SortedColumns: 
+  selectedTab: 1
+  version: 1.4.3
